@@ -43,7 +43,6 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.compose.AsyncImage
 import com.example.jetheroes.data.HeroRepository
-import com.example.jetheroes.model.HeroesData
 import com.example.jetheroes.ui.theme.JetHeroesTheme
 import kotlinx.coroutines.launch
 
