@@ -16,7 +16,6 @@ import com.example.jetheroes.ui.theme.JetHeroesTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
         setContent {
             JetHeroesTheme {
                 JetHeroesApp()
